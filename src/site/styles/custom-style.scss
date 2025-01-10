@@ -1,13 +1,10 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+<div id="floating-control">
+    <div id="theme-switch" class="light">
+        <span class="light">Light Mode</span>
+        <span class="dark">Dark Mode</span>
+        <span class="auto">Auto Mode</span>
+    </div>
+</div>
+
 }
